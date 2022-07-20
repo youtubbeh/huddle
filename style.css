@@ -1,3 +1,12 @@
+body {
+    background-color: hsl(257, 40%, 49%);
+}
+
+ion-icon {
+    font-size: 32px;
+    color: white;
+}
+
 .attribution {
     font-size: 11px; text-align: center;
 }
