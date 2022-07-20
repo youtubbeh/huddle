@@ -87,7 +87,7 @@ ion-icon:hover {
 
 .attribution {
     position: absolute;
-    bottom: 10px;
+    top: 5px;
     left: 50%;
     transform: translateX(-50%);
     font-size: 11px; text-align: center;
